@@ -1,2 +1,0 @@
-# mypitchacademy
-Landing page
